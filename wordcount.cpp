@@ -29,7 +29,6 @@ int main (int argc, char *argv[])
         printf("×Ö·ûÊý=%d", cnt);
     }
     fclose(fp);
-  
     return 0;
 }
 
